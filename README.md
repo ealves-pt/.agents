@@ -1,0 +1,2 @@
+# .agents
+(dot) agents setup
