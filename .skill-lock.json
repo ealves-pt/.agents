@@ -29,6 +29,15 @@
       "pluginName": "mattpocock-skills",
       "installedAt": "2026-08-12T15:09:31.741Z",
       "updatedAt": "2026-08-12T15:09:31.741Z"
+    },
+    "jira": {
+      "source": "ealves-pt/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/ealves-pt/skills.git",
+      "skillPath": "skills/in-progress/jira/SKILL.md",
+      "skillFolderHash": "c7375b38220bd97482eabbd6905f9a5aea001409",
+      "installedAt": "2026-08-13T14:28:03.821Z",
+      "updatedAt": "2026-08-13T14:28:03.821Z"
     }
   },
   "dismissed": {
