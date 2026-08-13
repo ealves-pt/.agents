@@ -38,6 +38,15 @@
       "skillFolderHash": "c7375b38220bd97482eabbd6905f9a5aea001409",
       "installedAt": "2026-08-13T14:28:03.821Z",
       "updatedAt": "2026-08-13T14:28:03.821Z"
+    },
+    "jira-issue-refinement": {
+      "source": "ealves-pt/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/ealves-pt/skills.git",
+      "skillPath": "skills/jira-issue-refinement/SKILL.md",
+      "skillFolderHash": "924253f9d8143a4f1cc9991346eee7488c000105",
+      "installedAt": "2026-08-13T23:39:16.267Z",
+      "updatedAt": "2026-08-13T23:39:16.267Z"
     }
   },
   "dismissed": {
