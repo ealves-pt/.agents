@@ -1,15 +1,6 @@
 {
   "version": 3,
   "skills": {
-    "grill-with-docs": {
-      "source": "mattpocock/skills",
-      "sourceType": "github",
-      "sourceUrl": "https://github.com/mattpocock/skills.git",
-      "skillPath": "skills/engineering/grill-with-docs/SKILL.md",
-      "skillFolderHash": "5fdcdeedf2d0c73b3ecb1da0a464dd885590f8d6",
-      "installedAt": "2026-06-22T23:29:26.985Z",
-      "updatedAt": "2026-07-13T22:50:39.874Z"
-    },
     "handoff": {
       "source": "mattpocock/skills",
       "sourceType": "github",
@@ -29,15 +20,15 @@
       "installedAt": "2026-06-22T23:32:55.118Z",
       "updatedAt": "2026-06-22T23:32:55.118Z"
     },
-    "grilling": {
+    "writing-for-agents": {
       "source": "mattpocock/skills",
       "sourceType": "github",
       "sourceUrl": "https://github.com/mattpocock/skills.git",
-      "skillPath": "skills/productivity/grilling/SKILL.md",
-      "skillFolderHash": "10b0db61f9b3869243db8a1a0ee84f862139b94e",
+      "skillPath": "skills/productivity/writing-for-agents/SKILL.md",
+      "skillFolderHash": "bd9c9c4762db0a9a094fd419316ebd4b0444d06e",
       "pluginName": "mattpocock-skills",
-      "installedAt": "2026-07-13T22:58:38.857Z",
-      "updatedAt": "2026-07-13T22:58:38.857Z"
+      "installedAt": "2026-08-12T15:09:31.741Z",
+      "updatedAt": "2026-08-12T15:09:31.741Z"
     }
   },
   "dismissed": {
