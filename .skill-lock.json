@@ -6,9 +6,9 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/mattpocock/skills.git",
       "skillPath": "skills/productivity/handoff/SKILL.md",
-      "skillFolderHash": "184d485ae68a2132893a94239b2b85d253e6152b",
+      "skillFolderHash": "2242e8f05424b8c2ae94194a90d97b88d16108ec",
       "installedAt": "2026-06-22T23:29:26.991Z",
-      "updatedAt": "2026-07-13T22:50:45.664Z"
+      "updatedAt": "2026-08-19T13:37:29.496Z"
     },
     "frontend-design": {
       "source": "anthropics/skills",
@@ -25,28 +25,9 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/mattpocock/skills.git",
       "skillPath": "skills/productivity/writing-for-agents/SKILL.md",
-      "skillFolderHash": "bd9c9c4762db0a9a094fd419316ebd4b0444d06e",
-      "pluginName": "mattpocock-skills",
+      "skillFolderHash": "ad2925850efb8973a72d2e666f7a975f9a2d4a9b",
       "installedAt": "2026-08-12T15:09:31.741Z",
-      "updatedAt": "2026-08-12T15:09:31.741Z"
-    },
-    "jira": {
-      "source": "ealves-pt/skills",
-      "sourceType": "github",
-      "sourceUrl": "https://github.com/ealves-pt/skills.git",
-      "skillPath": "skills/in-progress/jira/SKILL.md",
-      "skillFolderHash": "c7375b38220bd97482eabbd6905f9a5aea001409",
-      "installedAt": "2026-08-13T14:28:03.821Z",
-      "updatedAt": "2026-08-13T14:28:03.821Z"
-    },
-    "jira-issue-refinement": {
-      "source": "ealves-pt/skills",
-      "sourceType": "github",
-      "sourceUrl": "https://github.com/ealves-pt/skills.git",
-      "skillPath": "skills/jira-issue-refinement/SKILL.md",
-      "skillFolderHash": "de6253a82baa80cf3a53d803c81112b0d487a55b",
-      "installedAt": "2026-08-13T23:39:16.267Z",
-      "updatedAt": "2026-08-14T22:34:49.052Z"
+      "updatedAt": "2026-08-19T13:37:32.472Z"
     }
   },
   "dismissed": {
